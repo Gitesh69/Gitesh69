@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gitesh69
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Web Development and Backend Development
+- 🌱 I’m currently learning ML and MongoDB
 - 💞️ I’m looking to collaborate on Real World Projects
 - 📫 How to reach me giteshranasingh69@gmail.com
 - 😄 Pronouns: ...
